@@ -61,6 +61,6 @@ While this worked, I needed to create more accurate dimensions for all the appro
 
 Here are the final plans from Adobe Illistrator:
 
-![Illustrator file](./box-nabrams.ai)
+[Illustrator file](./box-nabrams.ai)
 
-![PDF version](./box-pdf.pdf)
+[PDF version](./box-pdf.pdf)
