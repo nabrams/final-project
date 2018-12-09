@@ -69,8 +69,6 @@ Here are the final plans from Adobe Illistrator:
 
 [PDF version](./box-pdf.pdf)
 
-### The code
-
 
 ### Putting it all together
 
@@ -82,3 +80,24 @@ Here are the final plans from Adobe Illistrator:
 ![](./final1.JPG)
 ![](./final2.JPG)
 ![](./final3.JPG)
+
+
+## The code
+
+Initially, I was going to use both the Arduino and Rasberri Pi so that I could pull horoscopes from a Horoscope API I found, allowing for new and unique horoscopes everyday. I was unable to get the API to work with the Pi, so I scaled back my expectations and decided that the printer would print a generic reading for each symbol. 
+
+I also discovered that the Arduino does not have enough memory to store all of the symbols for the horoscopes I wanted to print along with the reading, so I had to do some thinking. I decided that the Libra logo was the most important, because my mom is a Libra, so the rest of the readings print out without a unique symbol. 
+
+
+
+
+
+### Failures
+
+- Orginally I planned to use the rasberri pi but it proved too complex for the time we were given to complete the assignment. I decided to focus on more important things
+-I was not able to print the logo for each horoscope sign due to the size capacity of the Ardunio being too small
+
+
+
+
+## Final Video
