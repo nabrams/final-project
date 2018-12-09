@@ -50,3 +50,17 @@ My next step was to transfer those components onto a proto board so that all of 
 
 ![](./perm-board.JPG)
 ![](./back-perm-board.JPG)
+
+
+Now that all of the components were soldered together, I wanted to start designing the box to put them in. Here is the first cardboard prototype that I cut on the laser printer. 
+
+![](./proto1-a.JPG)
+![](./proto1-b.JPG)
+
+While this worked, I needed to create more accurate dimensions for all the appropriate slots and holes, because the final box was being printed on acrylic. 
+
+Here are the final plans from Adobe Illistrator:
+
+![Illustrator file](./box-nabrams.ai)
+
+![PDF version](./box-pdf.pdf)
