@@ -10,6 +10,10 @@ The goal for this project was to create something I could give to my mom as a gi
 The system will fully run on an Arudino, with various connected components. 
 
 
+### Initial Vision
+
+![](./initial-vision.JPG)
+
 
 ### Paper Prototype
 
@@ -67,6 +71,10 @@ Here are the final plans from Adobe Illistrator:
 
 ### The code
 
+
+### Putting it all together
+
+![](./progress.JPG)
 
 ### Final Box Design
 
