@@ -189,4 +189,4 @@ void processImage(File image) {
 [Horoscope Reader in Action!](https://youtu.be/6tzJqwW6LNg)
 
 
-![]
+![](./IMG_2353.jpg)
