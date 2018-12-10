@@ -25,10 +25,6 @@ The paper prototype demonstrates the look and the feel of the machine.
 ![](paper-prototype.JPG)
 
 
-### Verplank Diagram
-
-![](image here)
-
 
 ### Expected Parts
 
