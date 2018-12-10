@@ -82,7 +82,9 @@ Here are the final plans from Adobe Illistrator:
 ![](./final3.JPG)
 
 
-### The code
+# The code
+
+![Ardunio File](./my_printertest.ino)
 
 ## General Overview
 Initially, I was going to use both the Arduino and Rasberri Pi so that I could pull horoscopes from a Horoscope API I found, allowing for new and unique horoscopes everyday. I was unable to get the API to work with the Pi, so I scaled back my expectations and decided that the printer would print a generic reading for each symbol. 
